@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kadeverhuizingen.github.io/sitemap.xml
